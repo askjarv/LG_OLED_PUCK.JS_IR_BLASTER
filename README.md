@@ -1,1 +1,2 @@
 # LG_OLED_PUCK.JS_IR_BLASTER
+The IR blaster code for the nifty Puck.js I put together for a gift for my Dad's Xmas 2020 - it automatically navigates the an LG TV OLED to change the channel to a Twitch stream (my dad's a MST3K fan). It's far from robust, since it simply counts button presses (I debated doing searches, but since infrared signals seemed to fail if sent to quickly, this was ultimately the "faster" way!) but worked a treat!
